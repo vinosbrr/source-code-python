@@ -19,7 +19,7 @@ This script is created by [Vinosbrr](https://github.com/vinosbrr) using Acode,VS
 ## Contributor
 
 - [Vinosbrr](https://github.com/vinosbrr) (Pembuat)
-- A.I (Penyumbang Code)
+- A. I. (Penyumbang Code)
 
 #### Join Group
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KZmCzNMege942CH7qa7176) 
