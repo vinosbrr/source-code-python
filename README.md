@@ -31,8 +31,6 @@ This script is created by [Vinosbrr](https://github.com/vinosbrr) using Acode,VS
 ```bash
 git clone https://github.com/vinosbrr/source-code-python
 cd source-code-python 
-npm install
-npm update
 ```
 ---
 ## For Termux/Ubuntu/SSH User
@@ -77,5 +75,5 @@ License: [MIT](https://choosealicense.com/licenses/mit/)
 ## Thanks to
 
 | [![Vinosbrr](https://github.com/vinosbrr.png?size=100)](https://github.com/vinosbrr)
-| --- | --- | --- | --- |
-| [Vinosbrr](https://github.com/vinosbrr) | [Zaynn](https://github.com/ZaynRcK) | [Dani](https://github.com/dani) | [WhiskeySockets](https://github.com/WhiskeySockets) |
+| --- | 
+| [Vinosbrr](https://github.com/vinosbrr) |
