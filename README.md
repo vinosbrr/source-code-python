@@ -64,7 +64,7 @@ python script.py
 ---
 
 ### Features
-| Menu     | Bot | Group | Search | Download | Tools | Ai | Game | Fun | Owner |
+| Menu     | Kasir | Group | Search | Download | Tools | Ai | Game | Fun | Owner |
 | -------- | --- | ----- | ------ | -------- | ----- | -- | ---- | --- | ----- |
 | Work     |  ✅  |   ✅   |    ✅    |     ✅     |   ✅   | ✅ |   ✅   |  ✅  |    ✅    |
 
