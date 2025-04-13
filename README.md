@@ -72,7 +72,7 @@ python script.py
 License: [MIT](https://choosealicense.com/licenses/mit/)
 
 #### Support Me
-- [Saweria](https://saweria.co/naze)
+- [Instagram](https://www.instagram.com/vinosbrr?igsh=MWJ6dXU1eXdzdWcwbw==)
 
 ## Thanks to
 
