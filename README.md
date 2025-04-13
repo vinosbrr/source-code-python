@@ -58,7 +58,9 @@ python script.py
 
 ### Connection Options
 - Support Android 
-- Support Pairing Code
+- Support Termux
+- Support Ubuntu
+- Support SSH
 ---
 
 ### Features
