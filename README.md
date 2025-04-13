@@ -63,10 +63,10 @@ python script.py
 - Support SSH
 ---
 
-### Features
-| Menu     | Kasir | Group | Search | Download | Tools | Ai | Game | Fun | Owner |
-| -------- | --- | ----- | ------ | -------- | ----- | -- | ---- | --- | ----- |
-| Work     |  ✅  |   ✅   |    ✅    |     ✅     |   ✅   | ✅ |   ✅   |  ✅  |    ✅    |
+### Features Script
+| Script   | Kasir | Group | Search | Download | Tools | Ai | Game | Fun | Owner |
+| -------- | ----- | ----- | ------ | -------- | ----- | -- | ---- | --- | ----- |
+| Work     |  ✅   |   ✅  |    ✅    |     ✅     |   ✅   | ✅ |   ✅   |  ✅  |    ✅    |
 
 
 License: [MIT](https://choosealicense.com/licenses/mit/)
